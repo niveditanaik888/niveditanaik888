@@ -219,37 +219,7 @@ class NiveditaNaik:
 
 </div>
 
-<details>
-<summary>⚙️ Click to set up the snake animation</summary>
-<br/>
 
-Create `.github/workflows/snake.yml` in your `niveditanaik888/niveditanaik888` profile repo:
-
-```yaml
-name: Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: niveditanaik888
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
@@ -299,6 +269,4 @@ Whether it's a project idea, a role, or just a tech conversation — reach out!
 <code>Built with ❤️ and ☕ by Nivedita Naik</code></sub>
 
 </div>
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/niveditanaik888/niveditanaik888/blob/output/github-contribution-grid-snake.svg)
