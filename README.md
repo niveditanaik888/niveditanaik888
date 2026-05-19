@@ -299,3 +299,6 @@ Whether it's a project idea, a role, or just a tech conversation — reach out!
 <code>Built with ❤️ and ☕ by Nivedita Naik</code></sub>
 
 </div>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/niveditanaik888/niveditanaik888/blob/output/github-contribution-grid-snake.svg)
