@@ -166,25 +166,56 @@ class NiveditaNaik:
 
 ## 📊 GitHub Analytics
 
+<div align="center"><h2>📊 GitHub Analytics</h2></div>
 <div align="center">
-
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=niveditanaik888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true" alt="stats"/>
-&nbsp;
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditanaik888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="langs"/>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=niveditanaik888&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=niveditanaik888&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%" alt="trophies"/>
-
+<!--
+  STATS — using anuraghazra deploy (primary) with fallback text
+  If images still break, replace the src URLs with:
+  Primary:   https://github-readme-stats.vercel.app/api?username=niveditanaik888...
+  Backup #1: https://github-stats.as93.net/api?username=niveditanaik888...
+  Backup #2: https://github-readme-stats-salesp07.vercel.app/api?username=niveditanaik888...
+-->
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=niveditanaik888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&rank_icon=github"
+alt="GitHub Stats"
+onerror="this.style.display='none'"
+/>
+ 
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditanaik888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8"
+alt="Top Languages"
+onerror="this.style.display='none'"
+/>
 </div>
-
 <br/>
-
----
+<div align="center">
+<!-- STREAK — gitstreak.vercel.app is more reliable than demolab for new accounts -->
+<img
+width="65%"
+src="https://github-readme-streak-stats-salesp07.vercel.app?user=niveditanaik888&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e"
+alt="GitHub Streak"
+/>
+</div>
+<br/>
+<div align="center">
+<!-- ACTIVITY GRAPH — uses github-readme-activity-graph which is stable -->
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=niveditanaik888&bg_color=0d1117&color=a855f7&line=7c3aed&point=d8b4fe&area=true&hide_border=true&area_color=3b1078"
+alt="Contribution Graph"
+/>
+</div>
+<br/>
+<div align="center">
+<!-- TROPHIES — always stable -->
+<img
+width="100%"
+src="https://github-profile-trophy.vercel.app/?username=niveditanaik888&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true"
+alt="GitHub Trophies"
+/>
+</div>
 
 ## 🌱 Learning Roadmap
 
